@@ -8,9 +8,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Ativa o Node 24 para as Actions internas e para o ambiente de execução
     env:
-      # Permite o uso de versões do Node já depreciadas/antigas pelo GitHub
-      ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout repo
@@ -19,7 +19,8 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 18 # Mantém a versão antiga que estavas a usar
+          node-version: '24'
+          cache: 'npm'
 
       - name: Install dependencies
         run: npm install
@@ -32,5 +33,6 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add .
-          git commit -m "Auto update playlist" || echo "No changes"
+          git commit -m "Auto update playlist [Node 24]" || echo "No changes"
           git push --force
+          

@@ -4,10 +4,13 @@ on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
-  
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      # Permite o uso de versões do Node já depreciadas/antigas pelo GitHub
+      ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
 
     steps:
       - name: Checkout repo
@@ -16,7 +19,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 24
+          node-version: 18 # Mantém a versão antiga que estavas a usar
 
       - name: Install dependencies
         run: npm install

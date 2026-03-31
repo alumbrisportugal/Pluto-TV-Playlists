@@ -6457,6 +6457,11 @@ Enfin, Sabine et Eddie nous racontent leur King of the Hammers.</desc>
         <desc>Anderson, un scientifique, doit tenter d'atteindre les limites de l'univers.</desc>
         <icon src="https://images.pluto.tv/series/609aab89da2f9000132e5867/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed0f17564a300082b676a" start="20260401063452 +0000" stop="20260401080135 +0000">
+        <title>Une Star Dans Ma Vie</title>
+        <desc>Une star hollywoodienne, en quête de renouveau, accepte un rôle modeste. Pour s’immerger, il visite un quartier populaire de L.A. Là, il rencontre Scarlet, une caissière malheureuse. Charmé, il décide de l’aider, changeant sa vie et la sienne.</desc>
+        <icon src="https://images.pluto.tv/series/686b6f0831b6562298c1e823/tile_1751871241607.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed168f72fcd0007e56269" start="20260401004310 +0000" stop="20260401023719 +0000">
         <title>Heartburn</title>
         <desc>Elle, rédactrice de magazine, abandonne sa carrière par amour et pour fonder une famille. Lui, éditorialiste, est un coureur de jupons invétéré. Si cette alliance ne donne pas lieu à une relation brûlante, rien ne le fera !</desc>
@@ -11289,6 +11294,11 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <title>JFK - Affaire non classée</title>
         <desc>Obsédé par la recherche de réponses, un avocat risque sa famille, sa carrière et sa propre vie afin de trouver la vérité sur l'assassinat de JFK.</desc>
         <icon src="https://images.pluto.tv/series/6062dc34a224c9001bb828f9/tile_1768378098516.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed0f17564a300082b676a" start="20260401112735 +0000" stop="20260401130534 +0000">
+        <title>Manipulation : la voisine d'à côté</title>
+        <desc>Alors que Doug a une liaison avec Lena, la jeune femme qui a loué la maison voisine de la sienne pour l'été, la mort suspecte du mari de cette dernière révèle l'existence d'une assurance vie conséquente.</desc>
+        <icon src="https://images.pluto.tv/series/693983e80c94b0607884271f/tile_1765379086411.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f8ed168f72fcd0007e56269" start="20260401043419 +0000" stop="20260401063119 +0000">
         <title>Falling in Love</title>
@@ -28927,9 +28937,9 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc" start="20260401203000 +0000" stop="20260401212500 +0000">
-        <title>DAZN Combat</title>
-        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>DAZN Ringside</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc" start="20260401212500 +0000" stop="20260401223900 +0000">
         <title>Boxing</title>
@@ -30326,42 +30336,122 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b17414c23bb80b3c1d5bb5/featuredImage_1760606457685.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5f8eb8a8b2619a000710605c" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="5f8eb8a8b2619a000710605c" start="20260401220800 +0000" stop="20260401223800 +0000">
+        <title>Ridiculousness</title>
+        <desc>Rob Dyrdek, Sterling Steelo Brim et Chanel West Coast, réceptionniste et rappeuse de la Fantasy Factory, coaniment Ridiculous, un concentré de vidéos virales sur Internet. Des personnalités de marque sont régulièrement invitées.</desc>
+        <icon src="https://images.pluto.tv/series/68760cbb2704ca31d8431460/tile_1752574657481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb8a8b2619a000710605c" start="20260401223800 +0000" stop="20260401230800 +0000">
+        <title>Ridiculousness</title>
+        <desc>Rob Dyrdek, Sterling Steelo Brim et Chanel West Coast, réceptionniste et rappeuse de la Fantasy Factory, coaniment Ridiculous, un concentré de vidéos virales sur Internet. Des personnalités de marque sont régulièrement invitées.</desc>
+        <icon src="https://images.pluto.tv/series/68760cbb2704ca31d8431460/tile_1752574657481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb8a8b2619a000710605c" start="20260401230800 +0000" stop="20260402023000 +0000">
         <title>Ridiculousness</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260401222515 +0000" stop="20260401225215 +0000">
+        <title>Takeshi's Castle: Le château ou tard</title>
+        <desc>Le général recrute une centaine de soldats supplémentaires pour passer « Le Bowling infernal », le « Petit-Déjeuner » et la « Chute Finale ». Leur mission ?</desc>
+        <icon src="https://images.pluto.tv/series/600e8089b57d95001a546bc0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260401225215 +0000" stop="20260401231915 +0000">
+        <title>Takeshi's Castle: Pirates et pire attaque</title>
+        <desc>Une centaine de concurrents tente d'éviter l'eau (et les pirates) dans « Le Chemin Tortueux » avant d'affronter les adversaires improbables du « Tir à La Corde ».</desc>
+        <icon src="https://images.pluto.tv/series/600e8089b57d95001a546bc0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260401231915 +0000" stop="20260402023000 +0000">
         <title>Pluto TV Comédie</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5f8eb99ff17815000784a3b0" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260401221000 +0000" stop="20260401224000 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
+        <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260401224000 +0000" stop="20260401231000 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
+        <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260401231000 +0000" stop="20260402023000 +0000">
         <title>Pluto TV  Teen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/featuredImage_1750752089122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5f8eba14a4ffb8000764e950" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260401220719 +0000" stop="20260401223719 +0000">
+        <title>Pluto TV Toons</title>
+        <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
+        <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1747216428951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260401223719 +0000" stop="20260401230719 +0000">
+        <title>Pluto TV Toons</title>
+        <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
+        <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1747216428951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260401230719 +0000" stop="20260402023000 +0000">
         <title>Pluto TV Toons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/featuredImage_1751874536413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5f8ecb336537e8000764a17f" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="5f8ecb336537e8000764a17f" start="20260401221518 +0000" stop="20260401224518 +0000">
+        <title>Pluto TV Junior</title>
+        <desc>Entrez dans le monde de l'école maternelle emblématique avec Pluto TV Junior ! Rejoignez Dora l'exploratrice, Blaze et les Monster Machines, Bubble Guppies et Shimmer and Shine pour vous amuser, apprendre et faire des voyages magiques.</desc>
+        <icon src="https://images.pluto.tv/series/680b78a98e4b08935e20f1d3/tile_1745582250601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecb336537e8000764a17f" start="20260401224518 +0000" stop="20260401231518 +0000">
+        <title>Pluto TV Junior</title>
+        <desc>Entrez dans le monde de l'école maternelle emblématique avec Pluto TV Junior ! Rejoignez Dora l'exploratrice, Blaze et les Monster Machines, Bubble Guppies et Shimmer and Shine pour vous amuser, apprendre et faire des voyages magiques.</desc>
+        <icon src="https://images.pluto.tv/series/680b78a98e4b08935e20f1d3/tile_1745582250601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecb336537e8000764a17f" start="20260401231518 +0000" stop="20260402023000 +0000">
         <title>Pluto TV Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/featuredImage_1748328453416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5f8ecc1b37867f00071469e9" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260401221000 +0000" stop="20260401224000 +0000">
+        <title>Tortues Ninja TV</title>
+        <desc>Cowabunga! Tout droit sortis des égouts, les Tortues Ninja sont là et prêtes à affronter des extraterrestres et des mutants. Prenez une part de pizza et préparez-vous pour un maximum de puissance de Tortues Ninja!</desc>
+        <icon src="https://images.pluto.tv/series/680b5e6b54c3b6934b85620e/tile_1745575809811.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260401224000 +0000" stop="20260401231000 +0000">
+        <title>Tortues Ninja TV</title>
+        <desc>Cowabunga! Tout droit sortis des égouts, les Tortues Ninja sont là et prêtes à affronter des extraterrestres et des mutants. Prenez une part de pizza et préparez-vous pour un maximum de puissance de Tortues Ninja!</desc>
+        <icon src="https://images.pluto.tv/series/680b5e6b54c3b6934b85620e/tile_1745575809811.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260401231000 +0000" stop="20260402023000 +0000">
         <title>Tortues Ninja TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260401222730 +0000" stop="20260401225230 +0000">
+        <title>iCarly: L'intello</title>
+        <desc>Carly rencontre Kyle, un garçon très intelligent. Pour ne pas paraître stupide à ses yeux, elle étudie et fait des recherches sur Internet avant leur rendez-vous.</desc>
+        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1767957020113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260401225230 +0000" stop="20260401231730 +0000">
+        <title>iCarly: rencontre la Première Dame des États-Unis</title>
+        <desc>Carly se réjouit de revoir son père qui rentre fêter son anniversaire avec elle et Spencer. Malheureusement, la jeune fille déchante très vite quand elle apprend que son père ne pourra finalement pas rentrer.</desc>
+        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1767957020113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260401231730 +0000" stop="20260402023000 +0000">
         <title>iCarly TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecc7aa44d9c00081fca29/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5f8ecd9169d2d4000864a974" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260401221400 +0000" stop="20260401224600 +0000">
+        <title>FailArmy Presents: Splash Zone</title>
+        <desc>These wet and wild fails make people want to stay clear of the splash zone.</desc>
+        <icon src="https://images.pluto.tv/series/68dc383d393a03f3e363f33d/tile_1759262915476.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260401224600 +0000" stop="20260401231800 +0000">
+        <title>FailArmy Presents: Ball Busters</title>
+        <desc>The ultimate compilation of ball busting fails.</desc>
+        <icon src="https://images.pluto.tv/series/68dc383d393a03f3e363f281/tile_1759262785389.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260401231800 +0000" stop="20260402023000 +0000">
         <title>FailArmy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30376,37 +30466,102 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5f8ed48146ba9e00078424b6" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260401222542 +0000" stop="20260401224842 +0000">
+        <title>Sucre en folie: La récolte</title>
+        <desc>Trois pâtissiers cherchent à impressionner le jury lors d'une première ronde éliminatoire avec où la canneberge est à l’honneur.</desc>
+        <icon src="https://images.pluto.tv/series/61443bdd72d3a200132a3c96/tile_1768254708647.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260401224842 +0000" stop="20260401231142 +0000">
+        <title>Sucre en folie: Dans les bois</title>
+        <desc>Trois pâtissiers cherchent à impressionner les juges lors d'une première ronde éliminatoire avec un ingrédient mystère : le sirop d'érable.</desc>
+        <icon src="https://images.pluto.tv/series/61443bdd72d3a200132a3c96/tile_1768254708647.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260401231142 +0000" stop="20260402023000 +0000">
         <title>Pluto TV Cuisine</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5ffc8c345822750007e167de" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="5ffc8c345822750007e167de" start="20260401222314 +0000" stop="20260401225314 +0000">
+        <title>Bob l'éponge</title>
+        <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
+        <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ffc8c345822750007e167de" start="20260401225314 +0000" stop="20260401232314 +0000">
+        <title>Bob l'éponge</title>
+        <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
+        <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ffc8c345822750007e167de" start="20260401232314 +0000" stop="20260402023000 +0000">
         <title>Bob l'éponge</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ffc8c345822750007e167de/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="60925a44f0350600075a1fdc" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="60925a44f0350600075a1fdc" start="20260401222416 +0000" stop="20260401232416 +0000">
+        <title>Zèbres du Massaï Mara</title>
+        <desc>Des centaines de milliers de zèbres ouvrent la piste pour une migration massive de toutes les bêtes à sabots à travers le continent africain : ils traversent la légendaire réserve du Massaï Mara, au Kenya, et affrontent de grands dangers.</desc>
+        <icon src="https://images.pluto.tv/series/61bb4d8cb3ddda0013692cf3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60925a44f0350600075a1fdc" start="20260401232416 +0000" stop="20260402023000 +0000">
         <title>Pluto TV Animaux</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="60afa1508284e60007163c08" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="60afa1508284e60007163c08" start="20260401220200 +0000" stop="20260401223200 +0000">
+        <title>Juste pour rire GAGS</title>
+        <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
+        <icon src="https://images.pluto.tv/series/67af20268a1d0ef89434f9bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afa1508284e60007163c08" start="20260401223200 +0000" stop="20260401230200 +0000">
+        <title>Juste pour rire GAGS</title>
+        <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
+        <icon src="https://images.pluto.tv/series/67af20268a1d0ef89434f9bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afa1508284e60007163c08" start="20260401230200 +0000" stop="20260402023000 +0000">
         <title>Juste pour Rire GAGS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afa1508284e60007163c08/featuredImage_1746815950269.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="60dc6937b450ad0007377e48" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="60dc6937b450ad0007377e48" start="20260401220900 +0000" stop="20260401223400 +0000">
+        <title>Charlotte aux Fraises: Le Fraisi voyage de Charlotte aux fraises, pt. 2</title>
+        <desc>Bienvenue dans l'univers de Charlotte aux Fraises : Un monde sucré où tout n'est que joie et bonheur pour les tout petits!</desc>
+        <icon src="https://images.pluto.tv/series/62df835080410e0013da773b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dc6937b450ad0007377e48" start="20260401223400 +0000" stop="20260401225900 +0000">
+        <title>Charlotte aux Fraises: C'est petit à petit qu'on grandit, pt. 1</title>
+        <desc>Bienvenue dans l'univers de Charlotte aux Fraises : Un monde sucré où tout n'est que joie et bonheur pour les tout petits!</desc>
+        <icon src="https://images.pluto.tv/series/62df835080410e0013da773b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dc6937b450ad0007377e48" start="20260401225900 +0000" stop="20260401232400 +0000">
+        <title>Charlotte aux Fraises: C'est petit à petit qu'on grandit, pt. 2</title>
+        <desc>Bienvenue dans l'univers de Charlotte aux Fraises : Un monde sucré où tout n'est que joie et bonheur pour les tout petits!</desc>
+        <icon src="https://images.pluto.tv/series/62df835080410e0013da773b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dc6937b450ad0007377e48" start="20260401232400 +0000" stop="20260402023000 +0000">
         <title>Charlotte aux Fraises</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60dc6937b450ad0007377e48/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260401222520 +0000" stop="20260401225120 +0000">
+        <title>Sabrina, Apprentie sorcière: Les dents du bonheur</title>
+        <desc>Sabrina a mal aux dents. La petite sorcière décide de faire appel à la boîte à malices afin que ses dents de sagesse disparaissent comme par enchantement..</desc>
+        <icon src="https://images.pluto.tv/series/6152ee6e236ecd0013d8b4db/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260401225120 +0000" stop="20260401231720 +0000">
+        <title>Sabrina, Apprentie sorcière: Harvzilla</title>
+        <desc>Quand Harvey est écarté de l'équipe de lutte, Sabrina l'aide en employant le jet de dragon.</desc>
+        <icon src="https://images.pluto.tv/series/6152ee6e236ecd0013d8b4db/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260401231720 +0000" stop="20260402023000 +0000">
         <title>Pluto TV Kids Club</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/featuredImage_1748852014629.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="611e771e2f5f180007002224" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="611e771e2f5f180007002224" start="20260401222835 +0000" stop="20260401231933 +0000">
+        <title>Aux Armes!</title>
+        <desc>Paul recherche une des plus incroyables armes de la Seconde Guerre mondiale: le légendaire fusil d'assaut FG-42.</desc>
+        <icon src="https://images.pluto.tv/series/6825ae781426f2773e33b44a/tile_1768266361788.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e771e2f5f180007002224" start="20260401231933 +0000" stop="20260402023000 +0000">
         <title>Pluto TV Histoire</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e771e2f5f180007002224/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30416,12 +30571,27 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Aux Seychelles, la nature est reine : un jardin d’Eden aux fonds sous-marins somptueux, sanctuaires ornithologiques, réserves naturelles de premier plan.</desc>
         <icon src="https://images.pluto.tv/series/5ff2c8cced4edc001b016d7e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e7811eb9daf000764cbfd" start="20260401225729 +0000" stop="20260402023000 +0000">
+    <programme channel="611e7811eb9daf000764cbfd" start="20260401225729 +0000" stop="20260401235929 +0000">
+        <title>Horizons</title>
+        <desc>Berceau de la civilisation carthaginoise, la Tunisie a connu de multiples influences et a su tirer le meilleur de chacune d’elles. De la douceur méditerranéenne aux rigueurs désertiques.</desc>
+        <icon src="https://images.pluto.tv/series/5ff2c8cced4edc001b016d7e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e7811eb9daf000764cbfd" start="20260401235929 +0000" stop="20260402023000 +0000">
         <title>Pluto TV Aventure</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="61fc0df14159c40007250432" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="61fc0df14159c40007250432" start="20260401220423 +0000" stop="20260401223423 +0000">
+        <title>Nature Time</title>
+        <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
+        <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fc0df14159c40007250432" start="20260401223423 +0000" stop="20260401230423 +0000">
+        <title>Nature Time</title>
+        <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
+        <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fc0df14159c40007250432" start="20260401230423 +0000" stop="20260402023000 +0000">
         <title>Nature Time</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61fc0df14159c40007250432/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30436,32 +30606,92 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="63b578b524f0cf00072f2a52" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="63b578b524f0cf00072f2a52" start="20260401223000 +0000" stop="20260401230000 +0000">
+        <title>Échappées Belles</title>
+        <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
+        <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b578b524f0cf00072f2a52" start="20260401230000 +0000" stop="20260401233000 +0000">
+        <title>Échappées Belles</title>
+        <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
+        <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b578b524f0cf00072f2a52" start="20260401233000 +0000" stop="20260402023000 +0000">
         <title>Echappées Belles &amp; Co</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="64bab8ba5dc1660008969b5a" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260401221900 +0000" stop="20260401224200 +0000">
+        <title>Auction Hunters: Il était une fois</title>
+        <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
+        <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1768262041702.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260401224200 +0000" stop="20260401230500 +0000">
+        <title>Auction Hunters: Lieux d'échange</title>
+        <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
+        <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1768262041702.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260401230500 +0000" stop="20260402023000 +0000">
         <title>Adjugé, vendu !</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="652557d93fd33c000802f995" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="652557d93fd33c000802f995" start="20260401222848 +0000" stop="20260401225336 +0000">
+        <title>Martin Mystère: Le Monstre des Monstres 1ère Partie</title>
+        <desc>MOM appelle Martin et Diana au Centre pour leur annoncer que les résultats de leurs évaluations annuelles sont arrivés. Et comme prévu, Martin a obtenu une note brillante. Diana, en revanche, n'a pas de bons résultats du tout.</desc>
+        <icon src="https://images.pluto.tv/series/6516bdaea78f0d001a27a1d4/tile_1768262403448.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260401225336 +0000" stop="20260401231824 +0000">
+        <title>Martin Mystère: Le Monstre des Monstres 2ème Partie</title>
+        <desc>Lorsque Diana retourne à l'institut, le doyen est excité d'être finalement en possession  la créature. Il dévoile qu'il travaille sur l'expérience de toute une vie, dans laquelle il extrait les pouvoirs des monstres qu'il a attrapés.</desc>
+        <icon src="https://images.pluto.tv/series/6516bdaea78f0d001a27a1d4/tile_1768262403448.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260401231824 +0000" stop="20260402023000 +0000">
         <title>Pluto TV Super Kids</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/652557d93fd33c000802f995/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="654a58dbf9cc82000868f0fb" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260401221721 +0000" stop="20260401224721 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
+        <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260401224721 +0000" stop="20260401231721 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
+        <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260401231721 +0000" stop="20260402023000 +0000">
         <title>Pluto TV Kids Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/654a58dbf9cc82000868f0fb/featuredImage_1750151456845.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="6618e3037bcd8600089b62a8" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="6618e3037bcd8600089b62a8" start="20260401220000 +0000" stop="20260401223000 +0000">
+        <title>Allociné</title>
+        <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
+        <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6618e3037bcd8600089b62a8" start="20260401223000 +0000" stop="20260401230000 +0000">
+        <title>Allociné</title>
+        <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
+        <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6618e3037bcd8600089b62a8" start="20260401230000 +0000" stop="20260402023000 +0000">
         <title>Allociné</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6618e3037bcd8600089b62a8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="66f55d205e4a6e0008c2b92b" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260401220000 +0000" stop="20260401223000 +0000">
+        <title>Incroyables Transformations</title>
+        <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
+        <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260401223000 +0000" stop="20260401230000 +0000">
+        <title>Incroyables Transformations</title>
+        <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
+        <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260401230000 +0000" stop="20260402023000 +0000">
         <title>Incroyables Transformations</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55d205e4a6e0008c2b92b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30471,7 +30701,12 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>L'attitude négative de Paul détériore sa relation avec son équipier, Rick. Tyler est contraint de pêcher en solo, car son second ne s'est pas présenté au travail.</desc>
         <icon src="https://images.pluto.tv/series/6810a8c012cab50db67f68cd/tile_1768266002362.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="678f894ef5c74bff95c20a7f" start="20260401223952 +0000" stop="20260402023000 +0000">
+    <programme channel="678f894ef5c74bff95c20a7f" start="20260401223952 +0000" stop="20260401233446 +0000">
+        <title>Wicked Tuna</title>
+        <desc>Le capitaine Brad Krasowski, du Fish Hawk, a le vent en poupe. Il est déterminé à tenir sa promesse de passer du "dernier rang au premier".</desc>
+        <icon src="https://images.pluto.tv/series/6810a8c012cab50db67f68cd/tile_1768266002362.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678f894ef5c74bff95c20a7f" start="20260401233446 +0000" stop="20260402023000 +0000">
         <title>Pêche à haut risque</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/678f894ef5c74bff95c20a7f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30486,17 +30721,47 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/featuredImage_1749650211199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260401222321 +0000" stop="20260401224630 +0000">
+        <title>Monster High: MH1 webisodes</title>
+        <desc>Découvre les débuts monstrueusement cool de Monster High ! Draculaura, Frankie, Clawdeen et leurs amis apprennent à s’accepter et à célébrer leurs différences dans une école où l’amitié et la confiance en soi sont les vraies magies.</desc>
+        <icon src="https://images.pluto.tv/series/69431f73287ec44e14989930/tile_1766037204995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260401224630 +0000" stop="20260401230509 +0000">
+        <title>Monster High: MH3 webisodes</title>
+        <desc>Monster High: MH3 webisodes suit les élèves de Monster High dans de nouvelles aventures pleines d’humour, de mystère et de style, où l’amitié et l’acceptation de soi sont au cœur de chaque histoire.</desc>
+        <icon src="https://images.pluto.tv/series/69432c18b329898798841186/tile_1766011955038.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260401230509 +0000" stop="20260402023000 +0000">
         <title>Barbie &amp; Friends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686e7499e0ecf0e0cc25dbe3/featuredImage_1765805978819.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="686e74b0e48af72bc266e798" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="686e74b0e48af72bc266e798" start="20260401221315 +0000" stop="20260401223642 +0000">
+        <title>Thomas &amp; Friends</title>
+        <desc>Convaincue de pouvoir en faire toujours plus, Emily se surpasse et cause des ennuis, puis comprend qu’être utile, c’est aussi rester raisonnable.</desc>
+        <icon src="https://images.pluto.tv/series/69281ce88e21e6575a259f2a/tile_1764246923434.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e74b0e48af72bc266e798" start="20260401223642 +0000" stop="20260401230031 +0000">
+        <title>Thomas &amp; Friends</title>
+        <desc>Réveillée par un bruit, Marion croit voir des dinosaures géants. Il ne s’agit que d’engins et de fossiles : mystère résolu, sourire garanti.</desc>
+        <icon src="https://images.pluto.tv/series/69281ce88e21e6575a259f2a/tile_1764246923434.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e74b0e48af72bc266e798" start="20260401230031 +0000" stop="20260402023000 +0000">
         <title>Mattel Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686e74b0e48af72bc266e798/featuredImage_1765806081318.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="68b16d2282862c1f067dc763" start="20260401223000 +0000" stop="20260402023000 +0000">
+    <programme channel="68b16d2282862c1f067dc763" start="20260401222116 +0000" stop="20260401224825 +0000">
+        <title>Les Schtroumpfs</title>
+        <desc>Un peu de confiance en soi / Le contrat du schtroumpf musicien</desc>
+        <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1759822137074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b16d2282862c1f067dc763" start="20260401224825 +0000" stop="20260401231407 +0000">
+        <title>Les Schtroumpfs</title>
+        <desc>La dernière baie schtroumpfante</desc>
+        <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1759822137074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b16d2282862c1f067dc763" start="20260401231407 +0000" stop="20260402023000 +0000">
         <title>Les Schtroumpfs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b16d2282862c1f067dc763/featuredImage_1760383269925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>

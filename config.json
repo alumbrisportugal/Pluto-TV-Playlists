@@ -9,14 +9,14 @@
     "fr": "51.210.0.1",
     "es": "82.98.134.10",
     "it": "79.137.44.85",
-    "br": "177.39.248.1"
+    "br": "179.93.225.10"
   },
-  "all": true,
+  "all": false,
   "group": "genre",
-  "regionalize": true,
+  "regionalize": false,
   "excludeGroups": false,
   "excludeChannels": false,
-  "uniqueClientid": true,
+  "uniqueClientid": false,
   "randomClientid": false,
   "refresh": 0,
   "xTvgUrl": false,
